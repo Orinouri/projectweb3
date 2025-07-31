@@ -1,9 +1,9 @@
 const fetchpopulareIntrest =async()=>{
     try {
-        let data = await fetch("http://localhost:3000/populare-intrests")
+        let data = await fetch("https://orinouri.github.io/dbjson/db.json")
         console.log(data);
         let res = await data.json();
-        let populareapi =res.map((elem)=>{
+        let populareapi =res.populareintrests.map((elem)=>{
             return`
              <div class="swiper-slide Popular-interests-slider">
           <div class="Popular-interests-slider-cover">

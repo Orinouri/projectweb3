@@ -1,9 +1,9 @@
 const fetchpopulare =async()=>{
     try {
-        let data = await fetch("http://localhost:3000/most-populare")
+        let data = await fetch("https://orinouri.github.io/dbjson/db.json")
         console.log(data);
         let res = await data.json();
-        let trailer=res.map((elem)=>{
+        let trailer=res.mostpopulare.map((elem)=>{
             return`
         <div class="swiper-slide most-populer-slider">
             <div class="most-populer-cover">

@@ -1,5 +1,5 @@
 {
-  "up-next-trialer": [
+  "upnexttrialer": [
     {
       "title": "A delayed death",
       "trailerImageUrl": "https://static.filmnet.ir/images/44/c6/44c607120e874336925e08057f377af7.jpg?w=1920",
@@ -17,7 +17,7 @@
     }
   ],
 
-  "up-next": [
+  "upnext": [
     {
       "title": "Breakfast with giraffes",
       "images": "https://static.cdn.asset.filimo.com/flmt/mov_158439_285471.jpg?width=300&quality=85&sharpen=80&secret=tF2_GvzDQy1C1aMj-Rf_ug",
@@ -38,7 +38,7 @@
     }
   ],
 
-  "future-today": [
+  "futuretoday": [
     {
       "trailerImageUrl": "https://static.filmnet.ir/images/c1/2c/c12c4d02c56c437bb3043f88f814212b.jpg?w=500",
       "description": "Iranian"
@@ -65,7 +65,7 @@
     }
   ],
 
-  "most-populare": [
+  "mostpopulare": [
     {
       "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/e76d4f4a-f08e-474c-8092-6262e5d0c583.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140%201x%20,%20https://static.namava.ir/Content/Upload/Images/e76d4f4a-f08e-474c-8092-6262e5d0c583.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280%202x",
       "name": "Florence Pugh",
@@ -180,7 +180,7 @@
       "rating": "8.3"
     }
   ],
-  "fan-fav": [
+  "fanfav": [
     {
       "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/0d6066a2-dd11-4ff6-95e9-86463d0dcccb.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/0d6066a2-dd11-4ff6-95e9-86463d0dcccb.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
       "title": "Goldie",
@@ -228,7 +228,7 @@
     }
   ],
 
-  "populare-intrests": [
+  "populareintrests": [
     {
       "img": "https://static.namava.ir/Content/Upload/Images/078832d8-5d11-48f1-8a68-dfc1a577c0d6.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
       "title": "lilo&stich"
@@ -250,7 +250,7 @@
       "title": "karate kid"
     }
   ],
-  "imdb-original": [
+  "imdboriginal": [
     {
       "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/36ffffe4-fe16-4e18-8ef1-25bb22cd24a0.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
       "description": "oceans"
@@ -269,7 +269,7 @@
     }
   ],
   
-  "in-thears": [
+  "inthears": [
     {
       "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/500e0411-9d52-47a9-934c-1194992e3733.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
       "title": "world war 3",

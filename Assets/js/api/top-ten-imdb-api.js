@@ -1,9 +1,9 @@
 const fetchtopTen =async()=>{
     try {
-        let data = await fetch("http://localhost:3000/toptenimdb")
+        let data = await fetch("https://orinouri.github.io/dbjson/db.json")
         console.log(data);
         let res = await data.json();
-        let trailer=res.map((elem)=>{
+        let trailer=res.toptenimdb.map((elem)=>{
             return`
                  <div class="swiper-slide top-ten-to-watch-slider">
           <div class="top-ten-slider">

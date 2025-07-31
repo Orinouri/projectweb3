@@ -1,9 +1,9 @@
 const fetchFanFave =async()=>{
     try {
-        let data = await fetch("http://localhost:3000/fan-fav")
+        let data = await fetch("https://orinouri.github.io/dbjson/db.json")
         console.log(data);
         let res = await data.json();
-        let FanCover=res.map((elem)=>{
+        let FanCover=res.fanfav.map((elem)=>{
             return`
              <div class="swiper-slide fan-favorites-slid">
           <div class="fan-favorites-slider">

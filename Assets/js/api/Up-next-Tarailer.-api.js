@@ -1,10 +1,10 @@
 const fetchtrailer =async()=>{
     try {
-        let data = await fetch("http://localhost:3000/up-next-trialer")
+        let data = await fetch("https://orinouri.github.io/dbjson/db.json")
         console.log(data);
        
         let res = await data.json();
-        let uptrailer=res.map((elem)=>{
+        let uptrailer=res.upnexttrialer.map((elem)=>{
             return`
             <div class="swiper-slide trailer">
                 <a href=""

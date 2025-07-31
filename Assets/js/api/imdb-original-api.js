@@ -1,9 +1,9 @@
 const fetchoriginal =async()=>{
     try {
-        let data = await fetch("http://localhost:3000/imdb-original")
+        let data = await fetch("https://orinouri.github.io/dbjson/db.json")
         console.log(data);
         let res = await data.json();
-        let trailer=res.map((elem)=>{
+        let trailer=res.imdboriginal.map((elem)=>{
             return`
              <div class="swiper-slide Featured-today-slider">
             <div class="Featured-today-cover-titel">

@@ -1,9 +1,9 @@
 const fetchUpNext = async () => {
   try {
-    let data = await fetch("http://localhost:3000/up-next");
+    let data = await fetch("https://orinouri.github.io/dbjson/db.json");
     console.log(data);
     let res = await data.json();
-    let UpNext = res.map((elem) => {
+    let UpNext = res.upnext.map((elem) => {
       return `
         <div class="top-3-parent">
             <div class="top-3-chaild">
