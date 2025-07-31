@@ -1,0 +1,133 @@
+.top-ten-to-watch {
+  width: 100%;
+  margin-top: 0px;
+  height: auto;
+}
+
+.top-ten-to-watch .top-ten-to-watch-child {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  padding-left:21px !important;
+}
+
+.top-ten-to-watch .top-ten-to-watch-child hr {
+  width: 4px;
+  height: 19px;
+  background-color: #f5c518;
+  border-radius: 40px;
+  margin-top: 10px;
+}
+
+
+.top-ten-to-watch .top-ten-to-watch-child h2 {
+  font-size: 15.5px;
+  height: 19px;
+  line-height: 19px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mySwiper-top-ten {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  background-color: rgb(18, 18, 18);
+  padding-left:21px !important;
+
+}
+
+.top-ten-to-watch-slider {
+  width: 100%;
+
+}
+
+
+.mySwiper-top-ten .swiper-wrapper .top-ten-slider {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 18px;
+  flex: 1 1 auto;
+  /* ← fixed here */
+  background-color: rgb(26, 26, 26);
+  border-radius: 0 14px 14px 14px;
+  height: auto !important;
+}
+
+.top-ten-slider .top-ten-cover {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: auto;
+}
+
+.top-ten-slider .top-ten-cover img {
+  object-fit: cover;
+  border-radius: 0 14px 0 0;
+}
+
+.top-ten-slider .top-ten-title {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+
+
+}
+
+.top-ten-title .top-ten-rating {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.top-ten-slider .top-ten-title span {
+  color: white;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: start;
+  margin-bottom: 9px;
+}
+
+.top-ten-slider .top-ten-title svg:nth-of-type(2) {
+  margin: 0 20px;
+}
+
+.top-ten-slider .top-ten-title h2 {
+  color: white;
+  text-align: start;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.top-ten-whatchlist-trailer {
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0;
+
+}
+
+.top-ten-slider .top-ten-title h3 {
+  color: #5799ef;
+  width: 90%;
+  height: 31px;
+  font-size: 12px;
+  background-color: rgb(44, 44, 44);
+  text-align: center;
+  line-height: 31px;
+  border-radius: 18px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.top-ten-slider .top-ten-title h4 {
+  color: white;
+  font-size: 12px;
+  height: 31px;
+  width: 90%;
+  margin-top: 10px;
+}

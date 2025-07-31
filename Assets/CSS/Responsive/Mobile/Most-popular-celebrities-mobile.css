@@ -1,0 +1,92 @@
+.Most-popular-celebrities {
+  display: flex;
+  width: 100%;
+  height: 400px;
+  padding: 24px 0 24px 24px;
+  height: auto;
+}
+
+.Most-popular-celebrities-parent {
+  width: 100%;
+  height: auto;
+}
+
+.Most-popular-celebrities-parent .Most-popular-celebrities-child {
+  width: 100%;
+  height: auto;
+}
+
+.Most-popular-celebrities-child a {
+  margin: 0 0 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Most-popular-celebrities-child hr {
+  width: 4px;
+  height: 22px;
+  background-color: #f5c518;
+  border-radius: 3px;
+}
+
+.Most-popular-celebrities-child h3 {
+  color: white;
+  font-size: 16px;
+  padding: 0 0 0 12px;
+}
+
+.Most-popular-celebrities-child svg {
+  margin-left: 7px;
+}
+
+.most-populer-swiper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+}
+
+.most-populer-swiper .swiper-wrapper .most-populer-slider {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 18px;
+}
+
+.most-populer-slider .most-populer-cover {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: auto;
+
+}
+
+.most-populer-slider .most-populer-cover img {
+  object-fit: cover;
+  border-radius: 50%;
+
+}
+
+.most-populer-slider .most-populer-titel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.most-populer-slider .most-populer-titel span {
+  color: white;
+  font-size: 14px;
+}
+
+.most-populer-slider .most-populer-titel span p {
+  color: #ffffffb3;
+  display: inline;
+  font-size: 14px;
+}
+
+.most-populer-slider .most-populer-titel h2 {
+  color: white;
+  font-size: 14px;
+}

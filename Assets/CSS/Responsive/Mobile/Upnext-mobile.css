@@ -1,0 +1,169 @@
+.Up-next {
+  width: 100%;
+  height: 370px;
+}
+
+.Up-next-parent{
+  width: 100%;
+  height: 370px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Up-next .trailers {
+  width: 97%;
+  height: 333px;
+}
+
+.UP-nex-mySwiper {
+  width: 100%;
+  height: 100%;
+}
+
+.trailer {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.trailer a {
+  text-decoration: none;
+}
+
+.trailer .trailer-img {
+  object-fit: cover;
+  width: 100%;
+  height: 333px;
+  border-radius: 10px;
+}
+
+.trailer .movies-cover {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: start;
+  width: 100%;
+  position: absolute;
+  top: 167px;
+  z-index: 9;
+  background: #ffffff;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(0, 0, 0, 1) 48%
+  );
+}
+
+.trailer .movies-cover a {
+  text-decoration: none;
+}
+
+.trailer .movies-cover-img {
+  width: 90px;
+  height: 133px;
+  border-radius: 14px;
+  object-fit: cover;
+
+}
+
+.trailer .movies-titel {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  width: 346px;
+  height: 134px;
+  margin: 16px 0 16px 16px;
+}
+
+.trailer .movies-titel .play {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+}
+
+.trailer .movies-titel .play svg {
+  margin-bottom: 8px;
+}
+
+.trailer .play span {
+  color: #ffffff;
+  margin-left: 16px;
+  font-family: IMDB3;
+  font-size: 14px;
+}
+
+.trailer .Watch-the-Trailer {
+  display: flex;
+  flex-direction: column;
+}
+
+.movies-titel .Watch-the-Trailer h3 {
+  color: white;
+  font-family: IMDB3;
+}
+
+.movies-titel .Watch-the-Trailer p {
+  color: rgba(255, 255, 255, 0.7);
+  font-family: IMDB3;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.movies-titel .Watch-the-Trailer a {
+  display: flex;
+  align-items: end;
+  padding: 0;
+  width: inherit;
+  margin-top: 3px;
+  height: 16px;
+  
+  
+}
+.movies-titel .Watch-the-Trailer svg {
+  height: inherit;
+}
+
+.movies-titel .Watch-the-Trailer span {
+  color: #ffffffb3;
+  font-size: 13px;
+  font-family: IMDB3;
+}
+
+.Browse-trailers {
+  width: 100%;
+  height: 41px;
+  display: flex;
+  padding: 16px 19px 0;
+  align-items: center;
+}
+
+.Browse-trailers a {
+  color: #ffffff;
+  font-size: 21px;
+  text-align: center;
+}
+
+.Browse-trailers svg{
+    
+}
+
+
+/* tablet and desktop */
+
+.play-span{
+  display: none;
+}
+
+/* tablet and desktop */
+
+/* desktop */
+.top-3{
+  display: none;
+}
+
+/* desktop */

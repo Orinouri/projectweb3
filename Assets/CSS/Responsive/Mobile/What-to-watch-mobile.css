@@ -1,0 +1,116 @@
+.what-to-watch {
+  background-color: black;
+  margin: 24px 0 0;
+}
+
+.what-to-watch .what-to-watch-header {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 24px;
+  align-items: center;
+}
+
+.what-to-watch .what-to-watch-header h3 {
+  color: #f5c518;
+  font-size: 22px;
+  font-family: IMDB3;
+}
+
+.what-to-watch .what-to-watch-header .Get-more-recommendations {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 36px;
+  border-radius: 30px;
+  margin: 0 8px;
+  padding: 0 16px;
+}
+
+.what-to-watch .what-to-watch-header span {
+  color: #5799ef;
+  font-size: 14px;
+  font-family: IMDB3;
+}
+
+.what-to-watch .what-to-watch-header svg {
+  line-height: 36px;
+  text-align: center;
+}
+
+.From-your-Watchlist-parent{
+  background-color: #121212;
+  padding: 24px 0;
+
+
+}
+.From-your-Watchlist {
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 0 16px;
+  margin: 0 24px;
+
+}
+
+.From-your-Watchlist hr{
+  width: 4px;
+  height: 22px;
+  background-color: #f5c518;
+  display: inline;
+  border-radius: 8px;
+  border: none;
+}
+
+.From-your-Watchlist h4{
+  padding: 0 0 0 12px;
+  color: white;
+  font-size: 18px;
+  font-family: IMDB3;
+}
+
+.From-your-Watchlist svg{
+  margin-left: 8px;
+}
+
+.save-list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 24px;
+  margin: 0 24px;
+}
+
+.save-list span{
+  color: white;
+  font-size: 17px;
+  font-family: IMDB1;
+}
+
+.save-list p{
+color: white;
+font-size: 17px;
+font-family: IMDB3;
+text-align: center;
+margin-top: 8px;
+
+}
+
+.save-list-sign-in{
+  background-color: #ffffff14;
+  margin:32px 0 0 ;
+  padding: 0 32px;
+  height: 36px;
+  border-radius: 18px;
+  
+}
+
+.save-list-sign-in a{
+  color: #5799ef;
+  line-height: 36px;
+  font-family: IMDB3;
+}

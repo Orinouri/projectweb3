@@ -1,0 +1,15 @@
+@import url(./nav-desktop.css);
+@import url(./Setting-desktop.css);
+@import url(./Upnext-desktop.css);
+@import url(./Featured-today-Desktop.css);
+@import url(./Most-popular-celebrities.-desktop.css);
+@import url(./What-to-watch-desktop.css);
+@import url(./Top-10-on-IMDb-this-week-desktop.css);
+@import url(./fan-favorites-desktop.css);
+@import url(./Popular-interests-Desktop.css);
+@import url(./Footer-desktop.css);
+@import url(./popup-menu-desktop.css);
+body{
+    width: 80% ;
+    margin: 0% auto;
+}

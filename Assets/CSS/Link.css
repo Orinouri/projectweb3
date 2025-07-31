@@ -1,0 +1,10 @@
+@import url(./Setting.css);
+
+/* mobile */
+@import url(./Responsive/Mobile/mobile.css) only screen and (max-width:589px);
+
+/* Tablet */
+@import url(./Responsive/Tablet/Tablet.css) only screen and (min-width:590px) and (max-width:1199px); 
+
+/* Desktop */
+@import url(./Responsive/Desktop/desktop.css) only screen and (min-width:1200px); 

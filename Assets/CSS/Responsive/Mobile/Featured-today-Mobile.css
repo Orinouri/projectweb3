@@ -1,0 +1,91 @@
+.Featured-today {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: auto ;
+  padding: 0  0 24px 16px;
+  background-color: #121212;
+}
+
+.Featured-today .Featured-today-parent {
+  width: 100%;
+  height: auto;
+
+}
+
+.Featured-today .Featured-today-parent h2 {
+  color: #f5c518;
+  margin: 24px 0;
+
+}
+
+.Featured-today-mySwiper{
+  width: 100%;
+  height: auto ;
+  
+
+}
+
+.Featured-today-swiper-wrapper{
+  width: inherit;
+  height: auto;
+}
+
+.Featured-today-slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-left: 11px;
+}
+
+.Featured-today-cover-titel {
+  display: flex;
+  flex-direction: column;
+}
+
+.Featured-today-cover {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+}
+
+.Featured-today-cover a{
+
+}
+
+.Featured-today-cover img {
+  display: block;
+  border-radius: 12px;
+  width: 100%;
+  height: 148.5;
+}
+
+.Featured-today-titel{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  padding: 12px 4px 4px 4px;
+  
+}
+
+.Featured-today-titel h3{
+ color: white;
+ font-size: 17px;
+ font-family: imdb2
+ ;
+}
+
+.Featured-today-titel a{
+  margin-top: 8px;
+}
+
+.Featured-today-titel a span{
+  color: #5799ef;
+  font-size: 17px;
+  font-family: IMDB1;
+  
+}

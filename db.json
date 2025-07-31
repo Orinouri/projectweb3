@@ -1,0 +1,309 @@
+{
+  "up-next-trialer": [
+    {
+      "title": "A delayed death",
+      "trailerImageUrl": "https://static.filmnet.ir/images/44/c6/44c607120e874336925e08057f377af7.jpg?w=1920",
+      "description": "https://static.filmnet.ir/images/9e/d5/9ed503a502b440eea4515f04d9671282.jpg?w=300"
+    },
+    {
+      "title": "Conflict",
+      "trailerImageUrl": "https://static.filmnet.ir/images/c6/09/c6094df3a15848738fdf3f8b3f4aa292.jpg?w=1920",
+      "description": "https://static.filmnet.ir/images/65/4b/654bf27ad2924a2d8692beaa7a14a2bf.jpg?w=300"
+    },
+    {
+      "title": "Caude of death",
+      "trailerImageUrl": "https://static.filmnet.ir/images/32/23/3223da48a925480d9a57f8c43d91e1cf.jpg?w=1920",
+      "description": "https://static.filmnet.ir/images/ff/d2/ffd2d6b697544dc1ba893ced32dab4f5.jpg?w=300"
+    }
+  ],
+
+  "up-next": [
+    {
+      "title": "Breakfast with giraffes",
+      "images": "https://static.cdn.asset.filimo.com/flmt/mov_158439_285471.jpg?width=300&quality=85&sharpen=80&secret=tF2_GvzDQy1C1aMj-Rf_ug",
+      "info": "comedy, drama",
+      "time": "02:50"
+    },
+    {
+      "title": "texas 3",
+      "images": "https://static.cdn.asset.filimo.com/flmt/mov_151095_217051.jpg?width=300&quality=85&sharpen=80&secret=ppWVGhqOaIsleK52_BQYIg",
+      "info": "comedy",
+      "time": "01:40"
+    },
+    {
+      "title": "pariya",
+      "images": "https://static.cdn.asset.filimo.com/flmt/mov_150232_187788.jpg?width=300&quality=85&sharpen=80&secret=v5dx13fvNxmVg9i9Jh6FlA",
+      "info": "deram",
+      "time": "5:50"
+    }
+  ],
+
+  "future-today": [
+    {
+      "trailerImageUrl": "https://static.filmnet.ir/images/c1/2c/c12c4d02c56c437bb3043f88f814212b.jpg?w=500",
+      "description": "Iranian"
+    },
+    {
+      "trailerImageUrl": "https://static.filmnet.ir/images/f4/63/f4630458569f40be81334c6d9066ce2c.jpg?w=500",
+      "description": "sport"
+    },
+    {
+      "trailerImageUrl": "https://static.filmnet.ir/images/4a/4e/4a4e7cbd319a416ab2f278593a9f43c6.jpg?w=500",
+      "description": "exclusive"
+    },
+    {
+      "trailerImageUrl": "https://static.filmnet.ir/images/b9/80/b980dca769e6434694f3bde4bf7a6f92.jpg?w=500",
+      "description": "hindi"
+    },
+    {
+      "trailerImageUrl": "https://static.filmnet.ir/images/51/fb/51fb9f30f5e140ddaa48693246f326aa.jpg?w=500",
+      "description": "food"
+    },
+    {
+      "trailerImageUrl": "https://static.filmnet.ir/images/c3/27/c3273906a953407cb81454ccbcd825df.jpg?w=500",
+      "description": "kids"
+    }
+  ],
+
+  "most-populare": [
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/e76d4f4a-f08e-474c-8092-6262e5d0c583.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140%201x%20,%20https://static.namava.ir/Content/Upload/Images/e76d4f4a-f08e-474c-8092-6262e5d0c583.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280%202x",
+      "name": "Florence Pugh",
+      "rank": "1",
+      "rating": "3000",
+      "color": "rgb(95, 159, 69)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/643ed0ef-c1bb-4d99-940d-5ddcd4d0d5df.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/643ed0ef-c1bb-4d99-940d-5ddcd4d0d5df.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Sebastian Stan",
+      "rank": "2",
+      "rating": "2500",
+      "color": "rgb(251,60,60)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/33ef2e87-ec14-43af-bb99-1ae2c2b7d6fb.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/33ef2e87-ec14-43af-bb99-1ae2c2b7d6fb.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Cate Blanchett",
+      "rank": "3",
+      "rating": "2300",
+      "color": "rgb(251,60,60)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/b9308b61-33bc-427b-bcb4-c310ea8a61b9.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/b9308b61-33bc-427b-bcb4-c310ea8a61b9.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Al Pacino",
+      "rank": "4",
+      "rating": "2000",
+      "color": "rgb(95, 159, 69)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/01ea96ab-4903-4785-a156-524cb9431f4c.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/01ea96ab-4903-4785-a156-524cb9431f4c.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Paul Rad",
+      "rank": "5",
+      "rating": "1990",
+      "color": "rgb(95, 159, 69)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/78115b3f-90d2-420f-af25-98711101c42f.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/78115b3f-90d2-420f-af25-98711101c42f.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Sean Bean",
+      "rank": "6",
+      "rating": "1800",
+      "color": "rgb(251,60,60)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/39026481-e653-4f8c-bb62-e4977f250b7e.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/39026481-e653-4f8c-bb62-e4977f250b7e.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Bryce Dallas Howard",
+      "rank": "7",
+      "rating": "1700",
+      "color": "rgb(95, 159, 69)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/01518f00-60fe-4b53-92a6-cd3739cf4107.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/01518f00-60fe-4b53-92a6-cd3739cf4107.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Orlando Bloom",
+      "rank": "8",
+      "rating": "1500",
+      "color": "rgb(251,60,60)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/68aedf69-4da7-4733-97e3-86d7ef01b2d8.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/68aedf69-4da7-4733-97e3-86d7ef01b2d8.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Adrien Brody",
+      "rank": "8",
+      "rating": "1500",
+      "color": "rgb(251,60,60)"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/1e2a7871-e63d-472a-a1e0-7f03c8ea458e.jpg?anchor=middlecenter&crop=auto&scale=both&w=140&h=140 1x , https://static.namava.ir/Content/Upload/Images/1e2a7871-e63d-472a-a1e0-7f03c8ea458e.jpg?anchor=middlecenter&crop=auto&scale=both&w=280&h=280 2x",
+      "name": "Cillian Murphy",
+      "rank": "8",
+      "rating": "1500",
+      "color": "rgb(251,60,60)"
+    }
+  ],
+
+  "toptenimdb": [
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/202949e9-7a95-43f4-a99e-907542cd9388.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/202949e9-7a95-43f4-a99e-907542cd9388.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Goldie",
+      "rating": "8.5"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/f2c4fe7c-8780-4ce3-93ab-7741e07bbf12.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/f2c4fe7c-8780-4ce3-93ab-7741e07bbf12.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Dragon Trainer",
+      "rating": "8"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/935db6d3-8312-4e0d-8de4-80d96075eb58.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "Megan 2",
+      "rating": "6.2"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/7a3a6380-4896-4f08-ac61-d6e007925e4e.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/7a3a6380-4896-4f08-ac61-d6e007925e4e.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Ballard",
+      "rating": "7.6"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Prosecutor",
+      "rating": "6.7"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/43282573-3554-47f8-be09-3ce5b53c1b25.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "Dexter: Resurrection",
+      "rating": "8.3"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/43282573-3554-47f8-be09-3ce5b53c1b25.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "Dexter: Resurrection",
+      "rating": "8.3"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/43282573-3554-47f8-be09-3ce5b53c1b25.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "Dexter: Resurrection",
+      "rating": "8.3"
+    }
+  ],
+  "fan-fav": [
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/0d6066a2-dd11-4ff6-95e9-86463d0dcccb.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/0d6066a2-dd11-4ff6-95e9-86463d0dcccb.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Goldie",
+      "rating": "8.5"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/4a66b586-2fa2-4163-88fc-c9cd3ae70166.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/4a66b586-2fa2-4163-88fc-c9cd3ae70166.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Dragon Trainer",
+      "rating": "8"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/2e8eb969-c7d6-42d6-a5fc-ad613af5fd03.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "Megan 2",
+      "rating": "6.2"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/500e0411-9d52-47a9-934c-1194992e3733.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "world war 3",
+      "rating": "7.6"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Prosecutor",
+      "rating": "6.7"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Prosecutor",
+      "rating": "6.7"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Prosecutor",
+      "rating": "6.7"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/73c6514f-0301-4382-84be-2c194805ba90.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Prosecutor",
+      "rating": "6.7"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/4bb1902b-91bd-443e-a7dc-83bf5ce1baa4.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "Dexter: Resurrection",
+      "rating": "8.3"
+    }
+  ],
+
+  "populare-intrests": [
+    {
+      "img": "https://static.namava.ir/Content/Upload/Images/078832d8-5d11-48f1-8a68-dfc1a577c0d6.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "title": "lilo&stich"
+    },
+    {
+      "img": "https://static.namava.ir/Content/Upload/Images/3e949422-f5d1-4e5c-b45a-532cba0cb893.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "title": "how to train your dragon"
+    },
+    {
+      "img": "https://static.namava.ir/Content/Upload/Images/1f83d931-d39b-4f30-8c6e-282e50231018.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "title": "bring her back"
+    },
+    {
+      "img": "https://static.namava.ir/Content/Upload/Images/2e8abed6-d94d-48a6-8fc0-cbb2c796d571.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "title": "karate kid"
+    },
+    {
+      "img": "https://static.namava.ir/Content/Upload/Images/2e8abed6-d94d-48a6-8fc0-cbb2c796d571.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "title": "karate kid"
+    }
+  ],
+  "imdb-original": [
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/36ffffe4-fe16-4e18-8ef1-25bb22cd24a0.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "description": "oceans"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/4b13174d-4024-4830-a946-1d68bc1b0af4.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "description": "men in black"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/b8b79773-f68c-4c14-a9d7-e2847ebf396c.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "description": "iron man "
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/0b4af08e-6dd8-4be8-9f78-71cef389f5e1.jpg?anchor=middlecenter&crop=auto&scale=both&w=720&h=342",
+      "description": "toy story"
+    }
+  ],
+  
+  "in-thears": [
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/500e0411-9d52-47a9-934c-1194992e3733.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "world war 3",
+      "rating": "7.6"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/43282573-3554-47f8-be09-3ce5b53c1b25.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "Dexter: Resurrection",
+      "rating": "8.3"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/4a66b586-2fa2-4163-88fc-c9cd3ae70166.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/4a66b586-2fa2-4163-88fc-c9cd3ae70166.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Dragon Trainer",
+      "rating": "8"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/7a3a6380-4896-4f08-ac61-d6e007925e4e.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/7a3a6380-4896-4f08-ac61-d6e007925e4e.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Ballard",
+      "rating": "7.6"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/2e8eb969-c7d6-42d6-a5fc-ad613af5fd03.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294",
+      "title": "Megan 2",
+      "rating": "6.2"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/202949e9-7a95-43f4-a99e-907542cd9388.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/202949e9-7a95-43f4-a99e-907542cd9388.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Goldie",
+      "rating": "8.5"
+    },
+    {
+      "trailerImageUrl": "https://static.namava.ir/Content/Upload/Images/202949e9-7a95-43f4-a99e-907542cd9388.jpg?anchor=middlecenter&crop=auto&scale=both&w=200&h=294 1x,https://static.namava.ir/Content/Upload/Images/202949e9-7a95-43f4-a99e-907542cd9388.jpg?anchor=middlecenter&crop=auto&scale=both&w=400&h=588 2x",
+      "title": "Goldie",
+      "rating": "8.5"
+    }
+  ]
+}

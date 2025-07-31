@@ -1,0 +1,60 @@
+.popup-root{
+    position: absolute;
+    width: 100%!important;
+    height: 100vh;
+    background-color:  rgb(26, 26, 26);
+    right: 0%;
+    top: -100%;
+    z-index: 1000;
+    transition: 400ms;
+ 
+
+}
+.popup-root .root-child{
+     display: flex;
+     
+    justify-content: space-between;
+    padding: 80px;
+}
+.popup-root div svg{
+    width: 98px;
+    height: 49px;
+}
+.show{
+    top: 0%;
+}
+.menu-popup-end {
+    
+    width: 44px;
+    height: 44px;
+    background-color:#f5c518;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.menu-popup-end .popup-svg{
+     width: 24px;
+    height: 24px;
+    background-color:#f5c518;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-root .root-child2{
+   
+    
+}
+
+.popup-root .root-child2 .root-child2-title{
+        color: #f5c518;
+
+}
+.popup-root .root-child2 .root-child2-txt{
+        color: white;
+
+}

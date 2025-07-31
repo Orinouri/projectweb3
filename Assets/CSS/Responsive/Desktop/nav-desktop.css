@@ -1,0 +1,207 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    height: 56px;
+    padding: 4px 0 4px 0;
+    width: 100%;
+    background-color: #121212;
+
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 48px;
+    width: 100%;
+    justify-content: space-evenly;
+    padding: 0 12px;
+    margin: 0 auto;
+ 
+}
+
+
+
+.navbar .nav-logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 32px;
+    margin: 0 0 0 5px ;
+    width: 64px;
+    height: inherit;
+    
+    
+    
+}
+
+
+.nav-icon-desktop {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 16px;
+}
+
+.nav-icon-desktop a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.nav-icon-desktop span{
+    color: white;
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+/* desktop and tablet */
+.navbar .search-bar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 60%;
+    height: 30px;
+    margin: 0 8px 0 8px;
+    background-color: white;
+    border-radius: 4px;
+    justify-content: space-between;
+    flex: 1 1 auto;
+
+
+}
+
+
+.search-bar .catagory{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 60px;
+    height: inherit;
+    border-right: 1px solid grey;
+    padding: 8px;
+    
+}
+
+.search-bar .catagory span{
+    color: #121212;
+    
+}
+
+.serach-icon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px;
+    
+}
+
+.nav-line{
+    width: 2px;
+    height: 32px;
+    background-color: gray; 
+    margin:  0 8px 0 8px;
+
+}
+/* desktop and tablet */
+
+
+/* desktop */
+.navbar .imdb-pro{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 84px ;
+    height: 36px;
+    padding: 0 16px  0 16px ;
+}
+
+.navbar .whatch-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 115.30px;
+    height: 36px;
+
+}
+
+
+.navbar .whatch-list span{
+    color: white;
+    font-size: 14px;
+}
+/* desktop */
+
+
+.navbar .sing-in{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 77px;
+    height: 36px;
+    padding: 0 16px 0 16px;
+
+}
+
+.navbar .sing-in span{
+    color: white;
+    font-family: IMDB1;
+    font-size: 14px ;
+
+}
+
+
+/* desktop */
+
+.language{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 56.32px ;
+    height: 36px;
+    padding: 0 4px 0 16px;
+
+}
+
+.language span{
+    color: white;
+    font-size: 14px;
+}
+
+/* desktop */
+
+/* mobile */
+
+.navbar .serach-icon-mobile{
+    display: none;
+}
+/* mobile */
+
+
+/* mobile and tablet */
+
+
+.navbar .use-app{
+    display: none;
+    
+}
+
+.navbar .use-app span{
+    display: none;
+    
+
+}
+
+.navbar .nav-icon  {
+    display: none;
+   
+    
+   
+}
+
+/* mobile and tablet */
+
+.space{
+display: none;
+}

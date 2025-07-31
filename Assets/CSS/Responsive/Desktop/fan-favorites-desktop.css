@@ -1,0 +1,124 @@
+.fan-favorites {
+  width: 100%;
+  margin-top: 0px;
+  height: auto;
+}
+
+.fan-favorites .fan-favorites-child {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  padding-left:21px !important;
+}
+
+.fan-favorites .fan-favorites-child hr {
+  width: 4px;
+  height: 19px;
+  background-color: #f5c518;
+  border-radius: 40px;
+  margin-top: 10px;
+}
+
+.fan-favorites .fan-favorites-child h2 {
+  font-size: 15.5px;
+  height: 19px;
+  line-height: 19px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mySwiper-fan-favorites {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  background-color: #121212;
+  padding-left:21px !important;
+}
+
+
+
+.mySwiper-fan-favorites .swiper-wrapper .fan-favorites-slider {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 18px;
+  flex: 1 1 auto;
+  background-color: #1a1a1a !important;
+  border-radius: 0 14px 14px 14px;
+  height: auto !important;
+  width: 100% !important;
+}
+
+.fan-favorites-slider .fan-favorites-cover {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: auto;
+}
+
+.fan-favorites-slider .fan-favorites-cover img {
+  object-fit: cover;
+  border-radius: 0 14px 0 0;
+}
+
+.fan-favorites-slider .fan-favorites-title {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.fan-favorites-title .fan-favorites-rating {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.fan-favorites-slider .fan-favorites-title span {
+  color: white;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: start;
+  margin-bottom: 9px;
+}
+
+.fan-favorites-slider .fan-favorites-title svg:nth-of-type(2) {
+  margin: 0 20px;
+}
+
+.fan-favorites-slider .fan-favorites-title h2 {
+  color: white;
+  text-align: start;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.fan-favorites-whatchlist-trailer {
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0;
+}
+
+.fan-favorites-slider .fan-favorites-title h3 {
+  color: #5799ef;
+  width: 90%;
+  height: 31px;
+  font-size: 12px;
+  background-color: rgb(44, 44, 44);
+  text-align: center;
+  line-height: 31px;
+  border-radius: 18px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.fan-favorites-slider .fan-favorites-title h4 {
+  color: white;
+  font-size: 12px;
+  height: 31px;
+  width: 90%;
+  margin-top: 10px;
+}

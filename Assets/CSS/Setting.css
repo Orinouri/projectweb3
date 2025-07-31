@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: IMDB1;
+
+}
+
+html {
+  background-color: black;
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: IMDB1;
+  src: url(../Fonts/IMDB-Bold.woff2);
+}
+
+@font-face {
+  font-family: IMDB2;
+  src: url(../Fonts/IMDB-Demi-Bold.woff2);
+}
+
+@font-face {
+  font-family: IMDB3;
+  src: url(../Fonts/IMDB.woff2);
+}
+
+
